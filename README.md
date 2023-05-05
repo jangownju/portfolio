@@ -30,7 +30,7 @@
 
 ## **👨🏻‍💻 프로젝트**
 
-### [**1. TurTle을-활용한-게임**](https://github.com/jangownju/portfolio/tree/main/game_turtle)
+### [**1. TurTle을 활용한 게임**](https://github.com/jangownju/portfolio/tree/main/game_turtle)
 
 <img width="100%" alt="터틀을 활용한 게임" src="https://user-images.githubusercontent.com/132328203/236529746-e21cdc34-f7d0-4317-b615-fd01a21b1182.png" />
 
@@ -38,7 +38,7 @@
 - pygame을 사용하지 않고 구현 
 - 적이 계속 내려오는 가운데 캐릭터가 총알을 사용하여 적을 맞추는 게임 
 
-### [**2.Aduino 드론**](https://github.com/jangownju/portfolio/tree/main/drone_aduino)
+### [**2. Aduino 드론**](https://github.com/jangownju/portfolio/tree/main/drone_aduino)
 
 <img width="100%" alt="Aduino 드론" src="https://user-images.githubusercontent.com/132328203/236535681-f52a3c04-d25c-4765-be98-1b6fbde03c71.jpg" />
 
@@ -50,7 +50,7 @@
   모터의 주파수를 활용한 노래 연주
   특정 구간을 활성화/비활성화 함으로 노래 선택이 가능 하도록 구현 
 
-### [**3. Aduino-자동차**](https://github.com/jangownju/portfolio/tree/main/car)
+### [**3. Aduino 자동차**](https://github.com/jangownju/portfolio/tree/main/car)
 
 <img width="100%" alt="반응형" src="https://user-images.githubusercontent.com/132328203/236538535-9ea76b3d-869d-4231-9e73-47e9fddd8825.jpg" />
 
