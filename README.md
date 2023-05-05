@@ -50,7 +50,7 @@
   모터의 주파수를 활용한 노래 연주
   특정 구간을 활성화/비활성화 함으로 노래 선택이 가능 하도록 구현 
 
-### **3. Aduino 자동차**(https://github.com/jangownju/portfolio/tree/main/car)
+### [**3. Aduino 자동차**](https://github.com/jangownju/portfolio/tree/main/car)
 
 <img width="100%" alt="반응형" src="https://user-images.githubusercontent.com/132328203/236538535-9ea76b3d-869d-4231-9e73-47e9fddd8825.jpg" />
 
@@ -62,7 +62,7 @@
 - [CNN Training](https://github.com/jangownju/portfolio/blob/main/car/cnn_training.py)으로 수집된 데이터를 학습
   만들어진 model과 data파일을 활용하여 [Ai driving](https://github.com/jangownju/portfolio/blob/main/car/ai_driving.py)을 구현 
   
-### **4. Tello Drone**(https://github.com/jangownju/portfolio/tree/main/drone_tello)
+### [**4. Tello Drone**](https://github.com/jangownju/portfolio/tree/main/drone_tello)
 
 <img width="100%" alt="Tello Drone" src="https://user-images.githubusercontent.com/132328203/236541168-44d45586-dcaa-4581-9ebc-d536969c2d7c.jpg" />
 
