@@ -50,7 +50,7 @@
   모터의 주파수를 활용한 노래 연주
   특정 구간을 활성화/비활성화 함으로 노래 선택이 가능 하도록 구현 
 
-### [**3. Aduino 자동차**](https://github.com/jangownju/portfolio/tree/main/car)
+### [**3. Aduino-자동차**](https://github.com/jangownju/portfolio/tree/main/car)
 
 <img width="100%" alt="반응형" src="https://user-images.githubusercontent.com/132328203/236538535-9ea76b3d-869d-4231-9e73-47e9fddd8825.jpg" />
 
