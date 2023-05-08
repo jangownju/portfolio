@@ -61,6 +61,7 @@
   수집시킴
 - [CNN Training](https://github.com/jangownju/portfolio/blob/main/car/cnn_training.py)으로 수집된 데이터를 학습
   만들어진 model과 data파일을 활용하여 [Ai driving](https://github.com/jangownju/portfolio/blob/main/car/ai_driving.py)을 구현 
+  [![Video Label](http://img.youtube.com/vi/Ug6_ONf43oY/0.jpg)](https://youtu.be/Ug6_ONf43oY)
   
 ### [**4. Tello Drone**](https://github.com/jangownju/portfolio/tree/main/drone_tello)
 
