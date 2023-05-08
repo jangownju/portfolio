@@ -70,4 +70,5 @@
 - Python을 활용하여 드론의 [카메라 데이터](https://github.com/jangownju/portfolio/blob/main/drone_tello/Receive%20Tello%20Video%20Stream-OpenCV.py) [위치 데이터](https://github.com/jangownju/portfolio/blob/main/drone_tello/Receive%20Tello%20State.py)를 수집
 - [KEY MODUL](https://github.com/jangownju/portfolio/blob/main/drone_tello/KeyPressedModule.py)을 사용하여 [드론과 연결](https://github.com/jangownju/portfolio/blob/main/drone_tello/Drone%20Control%20to%20Key.py) 후 직접 키를 사용하여 드론을 원격조종이 가능하도록 구현
 - 드론이 나의 얼굴을 인식하여 따라오도록 설계 
+ [![Video Label](http://img.youtube.com/vi/gnds_Aoq_FY/0.jpg)](https://youtu.be/gnds_Aoq_FY)
 
